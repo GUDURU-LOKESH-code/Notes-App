@@ -1,0 +1,84 @@
+ body {
+            margin: 0px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #f5f5f5;
+          
+        }
+
+        .noteStyle {
+            border-left: 5px solid royalblue;
+            background: #fafafa;
+            margin-top: 10px;
+            border-radius: 8px;
+            padding: 10px 20px;
+            font-weight: bold;
+        }
+        .deletBtnStyle {
+            margin-top:10px;
+            padding: 10px 20px;
+            color: white;
+            background-color: red;
+        }
+        .editStyle {
+            margin-top:10px;
+            margin-left: 10px;
+            padding: 10px 20px;
+            color: orange;
+            background-color:white;
+        }
+        .saveStyle {
+            margin-top:10px;
+            margin-left: 10px;
+            padding: 10px 20px;
+            color: white;
+            background-color:rgb(0, 198, 220);
+            font-weight: bold;
+        }
+        .saveStyle:hover {
+            background-color: blue;
+            color: white;
+        }
+        .editStyle:hover {
+            background-color: darkgoldenrod;
+            color: white;
+        }
+        .deletBtnStyle:hover {
+            background-color: darkred;
+            cursor: pointer;
+        }
+
+
+        #container {
+            border: 1px solid black;
+            padding: 10px 20px;
+            width: 450px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,.2);
+            background-color: white;
+        }
+        #container input {
+            padding: 10px 20px;
+            width: 100%;
+            box-sizing: border-box;
+            border-radius: 8px;
+        }
+        #container button {
+            padding: 10px 20px;
+            border-radius: 8px;
+        }
+        #container textarea {
+            padding: 10px 20px;
+            border-radius: 8px;
+            min-height: 100px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        input,
+        textarea, 
+        button {
+            margin-top: 10px;
+        }
+   
