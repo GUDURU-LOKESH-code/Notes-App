@@ -26,7 +26,7 @@ A simple Notes App built using HTML, CSS and JavaScript.
 
 ## Live Demo
 
-Coming Soon
+https://guduru-lokesh-code.github.io/Notes-App/
 
 ## Author
 
