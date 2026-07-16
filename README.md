@@ -21,7 +21,8 @@ A simple Notes App built using HTML, CSS and JavaScript.
 
 ## Screenshot
 
-(Add screenshot here)
+<img width="920" height="1290" alt="image" src="https://github.com/user-attachments/assets/453a8836-c9aa-4253-8b9b-4b2f5257cdbb" />
+
 
 ## Live Demo
 
